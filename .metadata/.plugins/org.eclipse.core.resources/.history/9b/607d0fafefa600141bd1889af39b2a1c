@@ -1,0 +1,18 @@
+package java2_modificadoresBestePaketeBat;
+import java2_modificadores.PublicRodaje;
+
+public class PublicPelicula {
+
+	public PublicPelicula() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		PublicRodaje pr = new PublicRodaje();
+		pr.grabar();
+				
+
+	}
+
+}

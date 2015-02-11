@@ -1,0 +1,14 @@
+package java2_modificadoresBestePaketeBat;
+
+public class PublicPelicula {
+
+	public PublicPelicula() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
